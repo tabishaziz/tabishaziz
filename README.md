@@ -42,9 +42,9 @@ I'm always open to new opportunities, collaborations, and discussions. Whether y
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="mailto:tabishazizbercha@gmail.com"><img src="https://cdn.dribbble.com/users/527271/screenshots/3011245/gmail_3.gif" alt="Email" width="40" height="40"></a>
-  &nbsp;
-  <a href="https://www.instagram.com/tabishbarcha/"><img src="https://i.pinimg.com/originals/4e/94/67/4e9467f024454dfa2b0a0e61074aebd1.gif" alt="Instagram" width="40" height="40"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tabish-aziz-1552b5205/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="LinkedIn" width="40" height="40"></a>
+  <a href="mailto:tabishazizbercha@gmail.com"><img src="https://p7.hiclipart.com/preview/613/581/218/gmail-google-logo-email-computer-icons-gmail.jpg" alt="Email" width="40" height="40"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/tabishbarcha/"><img src="https://cliply.co/wp-content/uploads/2021/09/142110100_ORGANIC_IG_ICON_400.gif" alt="Instagram" width="40" height="40"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tabish-aziz-1552b5205/"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="40" height="40"></a>
 </p>
