@@ -38,6 +38,7 @@ I'm always open to new opportunities, collaborations, and discussions. Whether y
 
 <p align="center">
   <a href="mailto:tabishazizbercha@gmail.com"><img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-q.cdn.bubble.io%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max"></a>
-  <a href="https://www.instagram.com/tabishbarcha/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="Email"></a>
+  <a href="https://www.instagram.com/tabishbarcha/"><img src="![image](https://github.com/tabishaziz/tabishaziz/assets/141668602/9b5bbdac-04b1-4411-88ca-7bfc2d9a89fd)
+" alt="Email"></a>
   <a href="https://cdn-icons-png.flaticon.com/256/174/174857.png"></a>
 </p>
