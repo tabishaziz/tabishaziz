@@ -37,7 +37,9 @@ Apart from coding, I have a deep interest in mathematics and physics. I'm captiv
 I'm always open to new opportunities, collaborations, and discussions. Whether you want to work on a project together, share coding tips, or just chat about technology and science, feel free to reach out to me. Let's connect and explore the endless possibilities of software!
 
 <p align="center">
-  <a href="mailto:tabishazizbercha@gmail.com"><img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-q.cdn.bubble.io%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max" alt="Email"></a>
- 
-  <a href="https://www.instagram.com/tabishbarcha/"><img src="https://cliply.co/wpcontent/uploads/2021/09/142110100_ORGANIC_IG_ICON_400.gif" alt="Instagram"></a>
+  <a href="mailto:tabishazizbercha@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Email" width="30" height="30"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/tabishbarcha/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="Instagram" width="30" height="30"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tabish-aziz-1552b5205/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30" height="30"></a>
 </p>
