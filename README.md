@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonape.com%2Fanonymous-logo-logo-icon-svg-png.html&psig=AOvVaw3VpSsKm3wBHjqQqTZyV_C_&ust=1709637184279000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDQuvq82oQDFQAAAAAdAAAAABAE" alt="Tabish Aziz" width="200" height="200">
+  <img src="https://w7.pngwing.com/pngs/700/15/png-transparent-anonymous-logo-decal-desktop-anonymous-monochrome-sticker-silhouette.png" alt="Tabish Aziz" width="200" height="200">
 </p>
 <h1 align="center">Hi there, I'm Tabish Aziz! 👋</h1>
 <p align="center">
