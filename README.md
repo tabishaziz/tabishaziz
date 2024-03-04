@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="Tabish Aziz" width="200" height="200">
+</p>
+
 <h1 align="center">Tabish Aziz</h1>
 <h3 align="center">Join me in the dance of code, where rhythm meets logic! 💡</h3>
 
@@ -7,6 +11,7 @@
   🚀 Passionate about Computer Science, AI, and Software Development <br>
   🧠 Fascinated by mathematics, physics, and computer science
 </p>
+
 
 
 ## About Me
@@ -45,5 +50,5 @@ I'm always open to new opportunities, collaborations, and discussions. Whether y
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="Tabish Aziz" width="200" height="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="Tabish Aziz" width="100" height="100">
 </p>
