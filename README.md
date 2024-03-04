@@ -29,8 +29,7 @@ Get in Touch
 I'm always open to new opportunities, collaborations, and discussions. Whether you want to work on a project together, share coding tips, or just chat about technology and science, feel free to reach out to me. Let's connect and explore the endless possibilities of software!
 
 <p align="center">
-  <a href="mailto:tabishazizbercha@gmail.com"><img src="https://www.google.com/url? 
-sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw0rVS79a8yMFpIbu8d_6PUR&ust=1709636654384000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDFzP262oQDFQAAAAAdAAAAABAE"></a>
-  <a href="https://www.instagram.com/tabishbarcha/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_icon.png&psig=AOvVaw3HSo-sjkDc9H4dP3vZLcYW&ust=1709636645030000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiYl9O72oQDFQAAAAAdAAAAABAE" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/tabish-aziz-a71a21230/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1fdJlz8EFKdjseu9cRPVk2&ust=1709636648639000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjgyuK72oQDFQAAAAAdAAAAABAE" alt="LinkedIn"></a>
+  <a href="mailto:tabishazizbercha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"></a>
+  <a href="https://www.instagram.com/tabishbarcha/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="Email"></a>
+  <a href="https://cdn-icons-png.flaticon.com/256/174/174857.png"></a>
 </p>
