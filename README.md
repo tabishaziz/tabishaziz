@@ -13,15 +13,6 @@
   🧠 Fascinated by mathematics, physics, and computer science
 </p>
 
-<!-- Social Media Links -->
-<p align="center">
-  <a href="mailto:tabishazizbercha@gmail.com"><img src="https://cdn.dribbble.com/users/527271/screenshots/3011245/gmail_3.gif" alt="Email" width="30" height="30"></a>
-  &nbsp;
-  <a href="https://www.instagram.com/tabishbarcha/"><img src="https://i.pinimg.com/originals/4e/94/67/4e9467f024454dfa2b0a0e61074aebd1.gif" alt="Instagram" width="30" height="30"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tabish-aziz-1552b5205/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="LinkedIn" width="30" height="30"></a>
-</p>
-
 <!-- About Me Section -->
 ## About Me
 
@@ -49,6 +40,11 @@ Apart from coding, I have a deep interest in mathematics and physics. I'm captiv
 
 I'm always open to new opportunities, collaborations, and discussions. Whether you want to work on a project together, share coding tips, or just chat about technology and science, feel free to reach out to me. Let's connect and explore the endless possibilities of software!
 
+<!-- Social Media Links -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/527271/screenshots/3011245/gmail_3.gif" alt="Gmail" width="30" height="30">
+  <a href="mailto:tabishazizbercha@gmail.com"><img src="https://cdn.dribbble.com/users/527271/screenshots/3011245/gmail_3.gif" alt="Email" width="40" height="40"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/tabishbarcha/"><img src="https://i.pinimg.com/originals/4e/94/67/4e9467f024454dfa2b0a0e61074aebd1.gif" alt="Instagram" width="40" height="40"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tabish-aziz-1552b5205/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="LinkedIn" width="40" height="40"></a>
 </p>
