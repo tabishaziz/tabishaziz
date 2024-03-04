@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="Tabish Aziz" width="200" height="200">
-</p>
-
 <h1 align="center">Tabish Aziz</h1>
-<h3 align="center">High School Student | Aspiring Software Developer</h3>
+<h3 align="center">Join me in the dance of code, where rhythm meets logic! 💡</h3>
 
 <p align="center">
   🎓 Student in grade 12th at AKHSS Gilgit <br>
@@ -11,6 +7,7 @@
   🚀 Passionate about Computer Science, AI, and Software Development <br>
   🧠 Fascinated by mathematics, physics, and computer science
 </p>
+
 
 ## About Me
 
