@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/700/15/png-transparent-anonymous-logo-decal-desktop-anonymous-monochrome-sticker-silhouette.png" alt="Tabish Aziz" width="200" height="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="Tabish Aziz" width="200" height="200">
 </p>
 <h1 align="center">Hi there, I'm Tabish Aziz! 👋</h1>
 <p align="center">
