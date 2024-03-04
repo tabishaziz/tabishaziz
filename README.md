@@ -43,3 +43,7 @@ I'm always open to new opportunities, collaborations, and discussions. Whether y
   &nbsp;
   <a href="https://www.linkedin.com/in/tabish-aziz-1552b5205/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30" height="30"></a>
 </p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="Tabish Aziz" width="200" height="200">
+</p>
