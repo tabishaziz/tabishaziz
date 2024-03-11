@@ -5,9 +5,8 @@
 <h1 align="center">Meet Tabish Aziz</h1>
 <h3 align="center">Join him in the dance of code, where rhythm meets logic!</h3>
 
-<!-- Profile Views and Trophy -->
+<!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabishaziz&label=Profile%20views&color=0e75b6&style=flat" alt="tabishaziz" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabishaziz" alt="tabishaziz" /></a> </p>
 
 <!-- About Tabish -->
 - 📚 Tabish is currently a full-time **Student**
@@ -27,8 +26,21 @@
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <!-- Add more icons for other languages and tools -->
 </p>
+
+<!-- Projects Section -->
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. AKUEB Practicals for HSSC II
+2. Practice Code for Learning
+3. AKUEB Computer Science for HSSC II
+4. 2D Game Development: (Chess, Mine sweeper, Sudoku, etc.)
+   
+Feel free to check out my repositories for more!
 
 <!-- GitHub Stats -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabishaziz&show_icons=true&locale=en&layout=compact" alt="tabishaziz" /></p>
