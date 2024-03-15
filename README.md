@@ -5,10 +5,6 @@
 <h1 align="center">Tabish Aziz</h1>
 <h3 align="center">Join me in the dance of code, where rhythm meets logic! 💡</h3>
 
-<!-- Profile Visitor Badge -->
-<p align="center">
-  [![Profile Visitors](https://visitcount.itsvg.in/api?id=tabishaziz&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
 
 # About Me:
 Nestled among the breathtaking peaks of Gilgit, Pakistan, you'll find me, Tabish Aziz – a coding enthusiast whose journey began with a computer at the age of 8. What started as playful tinkering with its interface blossomed into a full-blown love affair with technology.
