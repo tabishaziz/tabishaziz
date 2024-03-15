@@ -1,7 +1,9 @@
-<!-- Profile Visitor Badge -->
+
+<!-- Profile Picture and Introduction -->
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=tabishaziz&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="Tabish Aziz" width="150" height="150">
 </p>
+
 <h1 align="center">Tabish Aziz</h1>
 <h3 align="center">Join me in the dance of code, where rhythm meets logic! 💡</h3>
 
