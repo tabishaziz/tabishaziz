@@ -25,10 +25,10 @@ But I'm not your average coder; I'm on a mission to infuse warmth and creativity
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100">
-  <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="Python" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="90">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="90">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="90">
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="90">
 </p>
 
 ## Projects
@@ -48,5 +48,5 @@ Apart from coding, I have a deep interest in mathematics and physics. I'm captiv
 I'm always open to new opportunities, collaborations, and discussions. Whether you want to work on a project together, share coding tips, or just chat about technology and science, feel free to reach out to me. Let's connect and explore the endless possibilities of software!
 
 ## 🌐 Socials:
-[![LinkedIn](https://banner2.cleanpng.com/20190425/tej/kisspng-python-programming-language-computer-programming-c-how-to-learn-python-where-to-start-and-how-to-sta-5cc1bd894aba99.0676800815562008413061.jpg) 
+[![LinkedIn](https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif) 
 
