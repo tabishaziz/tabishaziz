@@ -1,27 +1,24 @@
-
 <!-- Profile Picture and Introduction -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="Tabish Aziz" width="150" height="150">
 </p>
 
 <h1 align="center">Tabish Aziz</h1>
-<h3 align="center">Join me in the dance of code, where rhythm meets logic! 💡</h3>
+<h3 align="center">Join me in the dance of code, where rhythm meets logic!</h3>
 
 
-# About Me:
-Nestled among the breathtaking peaks of Gilgit, Pakistan, you'll find me, Tabish Aziz – a coding enthusiast whose journey began with a computer at the age of 8. What started as playful tinkering with its interface blossomed into a full-blown love affair with technology.
+# About Me
+I am Tabish Aziz, a passionate coding enthusiast hailing from the breathtaking peaks of Gilgit, Pakistan. My journey in the world of coding began at the tender age of 8, when I first interacted with a computer. Since then, I have developed a profound love for technology, transforming what started as playful tinkering into a full-fledged passion for coding.
 
-But I'm not your average coder; I'm on a mission to infuse warmth and creativity into every line of code I write. With a smile on my face and a spark in my heart, I'm determined to stand out from the crowd and make a difference in the world. As Steve Jobs famously said, "Innovation is what distinguishes a leader from a follower," and I'm all about leading with innovation and a friendly touch.
+Driven by a desire to infuse warmth and creativity into every line of code, I am committed to making a difference in the world. Inspired by Steve Jobs' philosophy, I believe that innovation is the key to leadership, and I strive to lead with innovation and a friendly touch.
 
-## Stats:
-![](https://github-readme-stats.vercel.app/api?username=tabishaziz&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabishaziz&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tabishaziz&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabishaziz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tabishaziz&theme=dark&hide_border=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tabishaziz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## Proficient In:
-<p>
+## Proficient In
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40">
@@ -39,12 +36,12 @@ Here are some of the projects I've worked on:
 Feel free to check out my repositories for more!
 
 ## Interests
-Apart from coding, I have a deep interest in mathematics and physics. I'm captivated by the beauty of mathematical concepts and the way they manifest in the physical world and help us reach complex and much-needed conclusions. This fascination has not only influenced my approach to problem-solving but also sparked my curiosity in the realm of computer science.
+Apart from coding, I have a deep interest in mathematics and physics. The beauty of mathematical concepts and their manifestation in the physical world fascinates me, influencing both my problem-solving approach and my curiosity in computer science.
 
 ## Get in Touch
-I'm always open to new opportunities, collaborations, and discussions. Whether you want to work on a project together, share coding tips, or just chat about technology and science, feel free to reach out to me. Let's connect and explore the endless possibilities of software!
+I'm always open to new opportunities, collaborations, and discussions. Whether you want to work on a project together, share coding tips, or simply chat about technology and science, feel free to reach out to me. Let's connect and explore the endless possibilities of software!
 
-## 🌐 Socials:
+## 🌐 Socials
 <p align="left">
-  <a href="https://linkedin.com/in/tabishaziz"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="35"></a>
+  <a href="https://linkedin.com/in/tabishaziz"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="40"></a>
 </p>
