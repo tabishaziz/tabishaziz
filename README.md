@@ -7,7 +7,7 @@
 
 <!-- Profile Visitor Badge -->
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=tabishaziz&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![Profile Visitors](https://visitcount.itsvg.in/api?id=tabishaziz&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 # 💫 About Me:
@@ -22,13 +22,12 @@ But I'm not your average coder; I'm on a mission to infuse warmth and creativity
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tabishaziz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60">
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="60">
+## 💻 Tech Stack:
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40">
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="40">
 </p>
 
 ## Projects
@@ -48,4 +47,6 @@ Apart from coding, I have a deep interest in mathematics and physics. I'm captiv
 I'm always open to new opportunities, collaborations, and discussions. Whether you want to work on a project together, share coding tips, or just chat about technology and science, feel free to reach out to me. Let's connect and explore the endless possibilities of software!
 
 ## 🌐 Socials:
-[![LinkedIn](https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif)](https://linkedin.com/in/tabishaziz)
+<p align="left">
+  <a href="https://linkedin.com/in/tabishaziz"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="30"></a>
+</p>
