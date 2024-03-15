@@ -22,8 +22,6 @@ But I'm not your average coder; I'm on a mission to infuse warmth and creativity
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tabishaziz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tabishaziz) 
 
 # 💻 Tech Stack:
 <p align="center">
@@ -48,3 +46,7 @@ Apart from coding, I have a deep interest in mathematics and physics. I'm captiv
 
 ## Get in Touch
 I'm always open to new opportunities, collaborations, and discussions. Whether you want to work on a project together, share coding tips, or just chat about technology and science, feel free to reach out to me. Let's connect and explore the endless possibilities of software!
+
+## 🌐 Socials:
+[![LinkedIn](https://banner2.cleanpng.com/20190425/tej/kisspng-python-programming-language-computer-programming-c-how-to-learn-python-where-to-start-and-how-to-sta-5cc1bd894aba99.0676800815562008413061.jpg) 
+
